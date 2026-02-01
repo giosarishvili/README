@@ -50,4 +50,4 @@ not as a commercial product.
 ---
 
 ## 📫 Contact
-📧 Email: yourmail@example.com
+📧 Email: giosarisvili5@gmail.com
