@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Gio 👋
 🎓 IT Student | Aspiring Software Developer  
 💡 Interested in web technologies, problem solving, and AI-assisted development
 
@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 I am an IT student focused on building a strong foundation in
-[your main direction – e.g. Web Development / Data Analysis].
+ Web Development.
 I actively use AI tools to improve productivity, learning speed,
 and code quality.
 
